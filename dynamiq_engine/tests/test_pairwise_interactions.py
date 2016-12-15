@@ -255,3 +255,11 @@ class testGaussianInteraction(object):
         }
         check_function(self.gaussian.d2fdx2, tests)
 
+class testLennardJonesInteraction(object):
+    pass
+
+class testWCAInteraction(object):
+    pass
+
+class testGeneralizedWCAInteraction(object):
+    pass
